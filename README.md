@@ -85,5 +85,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com///blob/main/
 
 ## Acknowledgements
 
-* [Dr. Vijayalakshmi V]( ) for Guidance 
+* [Dr. Vijayalakshmi V] for Guidance and support
 
