@@ -24,4 +24,13 @@ The system utilizes machine learning algorithms to analyze various email feature
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/spam-mail-detection.git
+   git clone https://github.com/Abhi-187/Detection_of_spam_email.git
+
+2.Navigate to the project directory:
+
+   ```bash
+   cd spam-mail-detection
+ 
+ 
+
+
